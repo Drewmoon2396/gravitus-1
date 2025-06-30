@@ -1,0 +1,12 @@
+
+body {
+  background: black;
+  color: white;
+  text-align: center;
+  font-family: monospace;
+  padding-top: 10%;
+}
+h1 {
+  font-size: 3rem;
+  text-shadow: 0 0 10px #66f;
+}
